@@ -1,0 +1,16 @@
+{
+  "name": "push-seed",
+  "version": "1.0.0",
+  "description": "JavaScript Seed Project for Push",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "parcel src/index.html"
+  },
+  "author": "attack-monkey",
+  "license": "ISC",
+  "dependencies": {
+    "hyperscript": "^2.0.2",
+    "push_fw": "^1.0.2"
+  }
+}
